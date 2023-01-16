@@ -61,6 +61,7 @@ export {
     requests
 }
 
+// eslint-disable-next-line no-lone-blocks
 {/* 
  DONKI
 O Space Weather Database Of Notifications, Knowledge, Information (DONKI) é uma ferramenta on-line abrangente para meteorologistas espaciais, cientistas e a comunidade científica espacial em geral. DONKI narra as interpretações diárias de observações, análises, modelos, previsões e notificações do clima espacial fornecidas pelo Centro de Pesquisa do Clima Espacial (SWRC), funcionalidade abrangente de pesquisa de base de conhecimento para oferecer suporte à resolução de anomalias e pesquisa em ciência espacial, ligações inteligentes, relacionamentos, causa -e-efeitos entre as atividades do clima espacial e o acesso abrangente da API do serviço da Web às informações armazenadas no DONKI.
